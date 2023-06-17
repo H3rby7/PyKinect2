@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='pykinect2',
-      version='0.1.0',
+      version='0.2.0',
       description='Wrapper to expose Kinect for Windows v2 API in Python',
       license='MIT',
       author='Microsoft Corporation',
