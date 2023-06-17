@@ -7,6 +7,7 @@ __pycache__/
 
 # Visual Studio
 *.suo
+.vs
 
 # Distribution / packaging
 .Python
