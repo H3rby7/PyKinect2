@@ -15,5 +15,5 @@ setup(name='pykinect2',
         'License :: OSI Approved :: MIT License'],
       packages=find_packages(),
       install_requires=['numpy>=1.24.3',
-                        'comtypes>=1.2.1']
+                        'comtypes>=1.2.0']
      )
