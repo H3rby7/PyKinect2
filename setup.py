@@ -14,6 +14,6 @@ setup(name='pykinect2',
         'Programming Language :: Python :: 3.4',
         'License :: OSI Approved :: MIT License'],
       packages=find_packages(),
-      install_requires=['numpy>=1.9.2',
-                        'comtypes>=1.1.1']
+      install_requires=['numpy>=1.24.3',
+                        'comtypes>=1.2.1']
      )
